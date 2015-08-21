@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -ex
+set -e
 
 if [ -z "$CARBON_HOST" ]; then
 	if [ -n "$CARBON_CARBON1_HOST" ]; then
