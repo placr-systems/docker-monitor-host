@@ -9,4 +9,4 @@ If Maestro is not used, these variables are mandatory:
 
 Example:
 
-	docker run -d -e CARBON_HOST=10.0.0.3 -e CARBON_LINE_RECEIVER_PORT=2003 visity/monitor-host
+	docker run -d -e CARBON_HOST=10.0.0.3 -e CARBON_LINE_RECEIVER_PORT=2003 placr/monitor-host
