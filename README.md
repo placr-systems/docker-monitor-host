@@ -9,4 +9,4 @@ If Maestro is not used, these variables are mandatory:
 
 Example:
 
-	docker run -d -e GRAPHITE_GP1_HOST=10.0.0.3 -e GRAPHITE_LINE_RECEIVER_PORT=2003 visity/monitor-host
+	docker run -d -e GRAPHITE_GP1_HOST=10.0.0.3 -e GRAPHITE_LINE_RECEIVER_PORT=2003 placr/monitor-host
